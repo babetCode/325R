@@ -2,6 +2,7 @@
 date = '2025-01-11T15:39:45-07:00'
 draft = false
 title = 'Contact'
+breadcrumbs = false
 +++
 
 {{< rawhtml >}}

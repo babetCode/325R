@@ -1,4 +1,4 @@
-baseURL = "https://KIN325R.adrienbabet.com/"
+baseURL = "https://kin320.adrienbabet.com/"
 languageCode = "en-us"
 title = "325R"
 theme = "hextra"
@@ -16,11 +16,6 @@ ignoreFiles = ["themes/hextra/static/*"]
       dark = "custom-favicon-dark.svg"
       link = "/"
       width = 40
-
-[[menu.main]]
-name = "Contact"
-pageRef = "/contact"
-weight = 2
 
 [[menu.main]]
 name = "Search"
