@@ -10,9 +10,9 @@ breadcrumbs = false
 Welcome to my KIN 325R site. More stuff will be here shortly.  
 -- Adrien
 
-{{< collapsed title="Syllabus" closed="true" >}}
+{{< details-html title="Syllabus" closed="true" >}}
 {{< pdf "pdf/syllabus.pdf" >}}
-{{< /collapsed >}}
+{{< /details-html >}}
 
 {{< rawhtml >}}
     <div class="mx-auto mt-8 flex justify-center">

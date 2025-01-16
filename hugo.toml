@@ -18,7 +18,7 @@ ignoreFiles = ["themes/hextra/static/*"]
       width = 40
 
   [params.footer]
-    displayPoweredBy = true
+    displayPoweredBy = false
     displayCopyright = false
     poweredBy = "© 2025 adrienbabet.com"
 
