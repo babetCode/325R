@@ -30,6 +30,21 @@ studies in kinesiology future career goals.
     - Cell level
     - Cellular subunits level
 
+{{< /md >}}
+
+<div class="mx-auto p-4 border rounded-lg shadow-sm bg-yellow-50">
+{{< md >}}
+**Whole Organism:** Gait analysis of the whole organism  
+**System level:** Muscular system and the movement it produces  
+**Organ level:** Individual muscle, or perhaps heart or lungs if combinging biomechanics with physiology  
+**Tissue level:** Tendon, ligament, or bone tissue  
+**Cell level:** Myocytes  
+**Cellular subunits level:**
+{{< /md >}}
+</div>
+
+{{< md >}}
+
 2. Using either Pubmed or Google Scholar, find an article showing an example of
 biomechanics being applied for either 1) improving health or 2) improving sport
 performance. Include the abstract from the article, complete APA formatted citation, and a short explanation for how you think this article represents biomechanics being applied to this specific area.
