@@ -6,7 +6,7 @@ breadcrumbs = false
 weight = 1
 +++
 
-{{< tabs items="Chapter 1 HW,Chapter 2" >}}
+{{< tabs items="Chapter 1 HW,Lecture Notes" >}}
 
 {{< tab-html >}}
 
@@ -103,8 +103,8 @@ Create a concept map or schematic diagram which shows the relationship among the
 
 {{< /tab-html >}}
 
-{{< tab >}}
-{{< callout emoji="🔨" >}}This week and beyond are still under construction{{< /callout >}}
-{{< /tab >}}
+{{< tab-html >}}
+{{< callout emoji="🔨" >}}This content is still under construction{{< /callout >}}
+{{< /tab-html >}}
 
 {{< /tabs >}}
