@@ -1,6 +1,6 @@
 baseURL = "https://kin320.adrienbabet.com/"
 languageCode = "en-us"
-title = "325R"
+title = "Biomechanics"
 theme = "hextra"
 
 [module]
@@ -16,6 +16,11 @@ ignoreFiles = ["themes/hextra/static/*"]
       dark = "custom-favicon-dark.svg"
       link = "/"
       width = 40
+
+  [params.footer]
+    displayPoweredBy = true
+    displayCopyright = false
+    poweredBy = "© 2025 adrienbabet.com"
 
 [[menu.main]]
 name = "Search"
