@@ -32,23 +32,42 @@ studies in kinesiology future career goals.
 
 {{< /md >}}
 
-<div class="mx-auto p-4 border rounded-lg shadow-sm bg-yellow-50">
+<div class="mx-auto p-4 border rounded-lg border-blue-500 shadow-sm">
 {{< md >}}
-**Whole Organism:** Gait analysis of the whole organism  
-**System level:** Muscular system and the movement it produces  
-**Organ level:** Individual muscle, or perhaps heart or lungs if combinging biomechanics with physiology  
-**Tissue level:** Tendon, ligament, or bone tissue  
-**Cell level:** Myocytes  
-**Cellular subunits level:**
+**Whole Organism:** Gait analysis of the whole organism
+
+**System level:** Muscular system and the movement it produces
+
+**Organ level:** Individual muscle, or perhaps heart or lungs if combinging biomechanics with physiology
+
+**Tissue level:** Tendon, ligament, or bone tissue
+
+**Cell level:** Myocytes
+
+**Cellular subunits level:** Cell wall stress, heel strike hemolysis
 {{< /md >}}
 </div>
 
 {{< md >}}
-
 2. Using either Pubmed or Google Scholar, find an article showing an example of
 biomechanics being applied for either 1) improving health or 2) improving sport
 performance. Include the abstract from the article, complete APA formatted citation, and a short explanation for how you think this article represents biomechanics being applied to this specific area.
+{{< /md >}}
 
+<div class="mx-auto p-4 border rounded-lg border-blue-500 shadow-sm">
+{{< md >}}
+**Abstract:**
+> The present study was conducted to biomechanics data on snowboard riding in order to help the improvement of the performance of the members of the national snowboarding team. Based on the results of this study, the following conclusions can be drawn. In neutral positions, the ‘up’motions were taken in which the heights of the right and left hips were relatively the highest and at the moments of turns in both directions, ‘down’motions were taken in which the heights of the right and left hips were relatively the lowest. During front side turns, the right ankle angle became smaller than the left ankle angle so that the toe edge moved deeper into the snow. Muscle activity during front side turns, the right vastus intermedius muscle, the right biceps femoris muscle, the right gastrocnemius muscle, and the right anterior tibial muscle were shown to be major activated muscles. During backside turns, the right vastus lateralis muscle, the right vastus intermedius muscle, the left biceps femoris muscle, and the right anterior tibial muscle (12.64%) were observed as major activated muscles. Plantar pressure analysis during front side turns, the largest vertical force and plantar pressure acted on the left front food and the right hind foot. During backside turns, the largest vertical force and plantar pressure acted on the left hind foot and the right hind foot. In further studies, the comparison of positions in successive turns is recommended.
+
+**Citation:**  
+Lee, C.-H., Nam, K., & Back, J. (2016). Biomechanical analysis of snowboard riding motions. International Journal of Bio-Science and Bio-Technology, 8(6), 243–252. https://doi.org/10.14257/ijbsbt.2016.8.6.23
+
+**How I think this article represents biomechanics being applied:**
+
+{{< /md >}}
+</div>
+
+{{< md >}}
 3. Basic Vocabulary and Conceptual Relationships  
 Create a concept map or schematic diagram which shows the relationship among the following terms. Be sure to include definitions for the words:
     - Mechanics
@@ -63,8 +82,25 @@ Create a concept map or schematic diagram which shows the relationship among the
     - Kinetics
     - Force
     - Torque
-
 {{< /md >}}
+
+<div class="mx-auto p-4 border rounded-lg border-blue-500 shadow-sm">
+{{< md >}}
+- Mechanics:
+- Rigid body dynamics:
+- Deformable body mechanics:
+- Statics:
+- Dynamics:
+- Kinematics:
+- Position:
+- Velocity:
+- Acceleration:
+- Kinetics:
+- Force:
+- Torque:
+{{< /md >}}
+</div>
+
 {{< /tab-html >}}
 
 {{< tab >}}
