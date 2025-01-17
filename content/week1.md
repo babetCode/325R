@@ -12,7 +12,7 @@ weight = 1
 
 {{< md >}}
 
-Due Thursday, January 16th
+Adrien Babaet KIN 325R chapter 1 HW
 
 **Learning Objectives:** Upon completion of the following topic (from in class lectures and completion of the external brain assignments), you will be able to:
 1. Describe and provide examples of how biomechanics may be studies at many levels,
@@ -63,6 +63,7 @@ performance. Include the abstract from the article, complete APA formatted citat
 Lee, C.-H., Nam, K., & Back, J. (2016). Biomechanical analysis of snowboard riding motions. International Journal of Bio-Science and Bio-Technology, 8(6), 243–252. https://doi.org/10.14257/ijbsbt.2016.8.6.23
 
 **How I think this article represents biomechanics being applied:**
+Biomechanics is the study of mechanics as it relates to living organisms. Mechanics is the study of movements and the forces that caused them. Since this research paper studied the forces produced during snowboarding and their resultant movements, this is an application of biomechanics to the field of snowboarding.
 
 {{< /md >}}
 </div>
@@ -86,18 +87,18 @@ Create a concept map or schematic diagram which shows the relationship among the
 
 <div class="mx-auto p-4 border rounded-lg border-blue-500 shadow-sm">
 {{< md >}}
-- Mechanics:
-- Rigid body dynamics:
-- Deformable body mechanics:
-- Statics:
-- Dynamics:
-- Kinematics:
-- Position:
-- Velocity:
-- Acceleration:
-- Kinetics:
-- Force:
-- Torque:
+- **Mechanics**: motion & forces producing motion
+- **Statics**: mechanics without mevement
+- **Dynamics**: mechanics with movement
+- **Rigid body dynamics**: dynamics with objects that don't deform
+- **Deformable body mechanics**: dynamics with objects that deform
+- **Kinematics**: motion (without considering forces)
+- **Kinetics**: motion with forces
+- **Position**: where something is
+- **Velocity**: rate of change of position (direnction and magnitude)
+- **Acceleration**: rate of change of velocity
+- **Force**: Kg x m/s^2
+- **Torque**: force x distance from fulcrum
 {{< /md >}}
 </div>
 
